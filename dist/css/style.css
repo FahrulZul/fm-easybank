@@ -664,6 +664,11 @@ button:hover::before, .button:hover::before {
   margin-bottom: 0.625rem;
   -webkit-transition: color 250ms ease-in-out;
   transition: color 250ms ease-in-out;
+  color: #2d314d;
+}
+
+.articles .article__info a.article__title:visited {
+  color: #2d314d;
 }
 
 .articles .article__info a.article__title:hover {
